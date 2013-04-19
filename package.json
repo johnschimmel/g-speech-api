@@ -1,0 +1,13 @@
+{
+  "name": "itpdwdspring2013",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "async": "~0.2.6"
+  },
+
+  "engines" : {
+    "node" : "0.8.x",
+    "npm" : "1.1.x"
+  }
+}
